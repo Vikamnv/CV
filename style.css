@@ -1,0 +1,55 @@
+* {
+    margin: 0px;
+    font-family: 'Quicksand', sans-serif;
+    box-sizing: border-box;
+}
+
+header {
+    width: 100%;
+    text-align: center;
+    background-color: rgb(43, 74, 123);
+    padding: 10px;
+}
+h1, h3 {
+    color: aliceblue;
+}
+.avatar {
+    width: 300px;
+}
+hr {
+    width: 100%;
+    margin: 0 auto;
+    border: 2px solid rgb(32, 49, 88);
+  }
+
+main {
+
+    padding: 10px;
+}
+summary {
+    padding-left: 20px;
+}
+footer {
+    margin: 20px;
+    text-align: center;
+    padding: 20px;
+}
+.link {
+    display: inline-block;
+    margin: 20px;
+}
+a {
+text-decoration: none;
+color: aliceblue;
+}
+button {
+    padding: 5px;
+    text-align: center;
+    background-color:rgb(43, 74, 123);
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+button:hover {
+    background-color: #7898e1;
+  color: rgb(3, 1, 1);
+}
