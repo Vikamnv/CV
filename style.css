@@ -21,6 +21,9 @@ hr {
     margin: 0 auto;
     border: 2px solid rgb(32, 49, 88);
   }
+ul {
+    overflow: auto;
+}
 
 main {
 
