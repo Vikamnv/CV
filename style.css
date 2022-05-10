@@ -16,15 +16,17 @@ h1, h3 {
 .avatar {
     width: 300px;
 }
+.overflow {
+    overflow: auto;
+}
+.photos{
+    height: 400px;
+}
 hr {
     width: 100%;
     margin: 0 auto;
     border: 2px solid rgb(32, 49, 88);
   }
-ul {
-    overflow: auto;
-}
-
 main {
 
     padding: 10px;
