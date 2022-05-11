@@ -14,10 +14,13 @@ h1, h3 {
     color: aliceblue;
 }
 .avatar {
-    width: 300px;
+    width: 250px;
 }
-.overflow {
+.overflow-photos {
     overflow: auto;
+}
+img{
+    width: 20%;
 }
 .photos{
     height: 400px;
@@ -48,6 +51,9 @@ text-decoration: none;
 color: aliceblue;
 }
 button {
+    font-size: medium;
+    height: 40px;
+    width: 110px;
     padding: 5px;
     text-align: center;
     background-color:rgb(43, 74, 123);
