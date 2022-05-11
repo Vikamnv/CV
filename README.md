@@ -9,5 +9,7 @@ At the Footer section I used tag button and inserted links on my Social media in
 
 **Hobbies**
 - In the part dogs 🐕 I posted all the doggos that I was helping this year and my puppy photos
-- In the part traveling ✈ I created the video from my trips and added it on YouTube, then I have copied embed code and inserted it into my hobbies' section 
+- In the part traveling ✈ I created the video from my trips and added it on YouTube, then I have copied embed code and inserted it into my hobbies' section
+_________________ 
+I used display:inline-block feature in my footer section
 ## Ce tout, merci!
