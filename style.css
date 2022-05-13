@@ -14,22 +14,14 @@ h1, h3 {
     color: aliceblue;
 }
 .avatar {
-    width: 250px;
-}
-.overflow-photos {
-    overflow: auto;
-}
-img{
-    width: 20%;
-}
-.photos{
-    height: 400px;
+    width: 300px;
 }
 hr {
     width: 100%;
     margin: 0 auto;
     border: 2px solid rgb(32, 49, 88);
   }
+
 main {
 
     padding: 10px;
@@ -37,6 +29,39 @@ main {
 summary {
     padding-left: 20px;
 }
+.form {
+  width: 300px;
+  background: rgb(47,45,83);
+background: linear-gradient(90deg, rgba(47,45,83,1) 0%, rgba(108,108,232,1) 42%, rgba(43, 74, 123) 100%);
+  border: 1px dashed black;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 15px;
+  color: aliceblue;
+}
+.form__message_area {
+ width: 200px; 
+ height: 100px;
+ border-radius: 15px;  
+ color: #7898e1;
+}
+.form__message_button {
+margin-top: 5px; 
+transition-duration: 0.4s;
+background-color:rgb(136, 159, 215);
+line-height: 10px;
+}
+.background {
+    background-image: url("https://images.pexels.com/photos/1261728/pexels-photo-1261728.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-position: center; 
+    background-size: cover;
+    background-repeat: no-repeat; 
+    max-width: 100%;
+    padding: 0px;
+    height: 300px;
+    opacity: 0.4;
+    }
+
 footer {
     margin: 20px;
     text-align: center;
@@ -51,9 +76,6 @@ text-decoration: none;
 color: aliceblue;
 }
 button {
-    font-size: medium;
-    height: 40px;
-    width: 110px;
     padding: 5px;
     text-align: center;
     background-color:rgb(43, 74, 123);
