@@ -52,7 +52,7 @@ background-color:rgb(136, 159, 215);
 line-height: 10px;
 }
 .background {
-    background: url("https://images.pexels.com/photos/1261728/pexels-photo-1261728.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260")center/cover no-repeat;;
+    background: url("https://images.pexels.com/photos/1261728/pexels-photo-1261728.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260")center/cover no-repeat;
     background-size: cover;
     max-width: 100%;
     padding: 0px;
